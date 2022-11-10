@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **AWS,web developememt,react js,**
 
 - 📫 How to reach me **maitykoustav2911@gmail.com**
+- * 💫 Always aiming at **usability** and **code performance** at all costs. 
+* Learning any tecnology that apears on my way.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
