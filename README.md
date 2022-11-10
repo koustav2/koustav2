@@ -1,3 +1,4 @@
+### 👋 Hello World  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <h1 align="center">Hi 👋, I'm Koustav</h1>
 <h3 align="center">A passionate developer from India</h3>
 
