@@ -1,6 +1,6 @@
 ### 👋 Hello World  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <h1 align="center">Hi 👋, I'm Koustav</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer and Dreamer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koustav2&label=Profile%20views&color=0e75b6&style=flat" alt="koustav2" /> </p>
 
@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/koustavmaity6" target="blank"><img src="https://img.shields.io/twitter/follow/koustavmaity6?logo=twitter&style=for-the-badge" alt="koustavmaity6" /></a> </p>
 
-- 🌱 I’m currently learning **AWS,web developememt,react js,**
+- 🌱 I’m currently learning **AWS,web developememt,react js,GCP**
+- 
 
 - 📫 How to reach me **maitykoustav2911@gmail.com**
 - * 💫 Always aiming at **usability** and **code performance** at all costs. 
