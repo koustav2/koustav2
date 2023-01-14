@@ -11,9 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/koustavmaity6" target="blank"><img src="https://img.shields.io/twitter/follow/koustavmaity6?logo=twitter&style=for-the-badge" alt="koustavmaity6" /></a> </p>
 
-- 🌱 I’m currently learning **AWS,web developememt,react js,GCP**
-- 
-
+- 🌱 I’m currently learning **AWS,web developememt,react js**
 - 📫 How to reach me **maitykoustav2911@gmail.com**
 - * 💫 Always aiming at **usability** and **code performance** at all costs. 
 * Learning any tecnology that apears on my way.
@@ -53,4 +51,5 @@
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koustav2&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=koustav2
 
