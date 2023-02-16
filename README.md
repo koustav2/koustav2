@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav2" alt="koustav2" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/koustavmaity6" target="blank"><img src="https://img.shields.io/twitter/follow/koustavmaity6?logo=twitter&style=for-the-badge" alt="koustavmaity6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/koustavmaity6" target="_blank"><img src="https://img.shields.io/twitter/follow/koustavmaity6?logo=twitter&style=for-the-badge" alt="koustavmaity6" /></a> </p>
 
 - 🌱 I’m currently learning **AWS,web developememt,react js**
 - 📫 How to reach me **maitykoustav2911@gmail.com**
