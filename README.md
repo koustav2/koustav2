@@ -43,12 +43,5 @@
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-   
-![Koustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=koustav2&count_private=true)
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koustav2&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 #### [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koustav2&theme=dark&background=000000)](https://git.io/streak-stats)
 
