@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Koustav</h1>
-<h3 align="center">A passionate developer and Dreamer from India</h3>
+<h3 align="center">A passionate developer and tech enthusiastic & idealist person from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koustav2&label=Profile%20views&color=0e75b6&style=flat" alt="koustav2" /> </p>
 
