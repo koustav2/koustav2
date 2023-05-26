@@ -2,14 +2,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Koustav</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://my-portfolio-tech.vercel.app/" target="__blank">Koustav</a></h1>
 <h3 align="center">A passionate developer and tech enthusiastic & idealist person from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koustav2&label=Profile%20views&color=0e75b6&style=flat" alt="koustav2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav2" alt="koustav2" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/koustavmaity6" target="_blank"><img src="https://img.shields.io/twitter/follow/koustavmaity6?logo=twitter&style=for-the-badge" alt="koustavmaity6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/koustavmaity6" target="__blank"><img src="https://img.shields.io/twitter/follow/koustavmaity6?logo=twitter&style=for-the-badge" alt="koustavmaity6" /></a> </p>
 
 - 🌱 I’m currently learning **AWS,web developememt,react js**
 - 📫 How to reach me **maitykoustav2911@gmail.com**
